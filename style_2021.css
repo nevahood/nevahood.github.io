@@ -1,0 +1,57 @@
+
+*css elements / fastpages2021*
+
+
+html {
+	margin: 0;
+	padding: 0;
+	}
+body { 
+	font: 75% Tahoma, sans-serif;
+	line-height: 1.88889;
+	color: Green; 
+	background: #fff url(https://jooinn.com/images/wood-background-71.jpg) no-repeat bottom right; 
+	margin: 0; 
+	padding: 0;
+	}
+p { 
+	margin-top: 0; 
+	text-align: justify;
+	}
+h1 {
+	font: 100% Taurus Mono outline, Goudy Stout, Tahoma, sans-serif;
+	letter-spacing: 2px; 
+	margin-bottom: 0; 
+	color: White;
+	}
+h2 {
+	font: Forte, Aharoni, Tahoma, sans-serif;
+	letter-spacing: 2px; 
+	margin-bottom: 0; 
+	color: Crimson;
+	}
+
+h3 { 
+	font: Gautami, Tahoma, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: Orange;
+	}
+l:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #6495ED;
+	}
+l:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #D2691E;
+	}
+l:hover { 
+	text-decoration: underline; 
+	color: #9685BA;
+	}
+
+footer { 
+	text-align: center; 
+	}
