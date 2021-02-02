@@ -39,14 +39,14 @@ h2 {
 	font: 75% Courier, Consolas, Monospace;
 	letter-spacing: 2px; 
 	margin-bottom: 0; 
-	color: Crimson;
+	color: #D2691E;
 	}
 
 h3 { 
 	font: 50% Consolas, Courier, Monospace;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
-	color: Orange;
+	color: #D2691E;
 	}
 .div1 {
 	border:dotted 2px
