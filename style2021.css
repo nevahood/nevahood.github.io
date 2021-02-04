@@ -11,13 +11,14 @@ body {
 	
 	line-height: 2;
 	color: #FFFFFF; 
-	background: #000000 url(http://wallpaperheart.com/wp-content/uploads/2018/08/cool-background-designs-for-powerpoint-1.jpg) no-repeat bottom right; 
+	background: #000000 url(http://wallpaperheart.com/wp-content/uploads/2018/08/cool-background-designs-for-powerpoint-1.jpg); 
 	margin: 0; 
 	padding: 0;
 	}
 p { 
+	background-color: #000000; 
 	padding-left: 250px;
-	font-size: 12px;
+	font-size: 15px;
 	color: green;
 	margin-top: 0; 
 	text-align: justify;
@@ -25,7 +26,7 @@ p {
 	}
 h1 {
 	padding-left: 200px;
-	font-size: 20px;
+	font-size: 30px;
 	letter-spacing: 2px;
 	border: solid 4px;
 	margin-bottom: 0; 
@@ -33,7 +34,7 @@ h1 {
 	}
 h2 {
 	padding-left: 200px;
-	font-size: 17px;
+	font-size: 25px;
 	letter-spacing: 2px; 
 	margin-bottom: 0; 
 	color: #D2691E;
@@ -41,7 +42,7 @@ h2 {
 
 h3 { 
 	padding-left: 200px;
-	font-size: 15px;
+	font-size: 25px;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: #D2691E;
