@@ -1,13 +1,7 @@
 
 /*css elements / css page*/
 
-/*Set background color to black and text color to white.*/
-/*Set h1-element font size to 20 pixels.*/
-/*Set p-element font size to 12 pixels.*/
-/*Set p-element text color to green.*/
-/*Set div-element border to dotted and 2 pixels wide, set element width and height to 100 pixels. Use class selector.*/
-/*Replace ordered list numbers with letters.*/
-/*Replace unordered list dots with squares.*/
+
 
 html {
 	margin: 0;
@@ -17,25 +11,28 @@ body {
 	
 	line-height: 2;
 	color: #FFFFFF; 
-	background: #000000;
+	background: #000000 url(http://wallpaperheart.com/wp-content/uploads/2018/08/cool-background-designs-for-powerpoint-1.jpg) no-repeat bottom right; 
 	margin: 0; 
 	padding: 0;
 	}
 p { 
-	
+	padding-left: 250px;
 	font-size: 12px;
 	color: green;
 	margin-top: 0; 
 	text-align: justify;
+	
 	}
 h1 {
-
+	padding-left: 200px;
 	font-size: 20px;
-	letter-spacing: 2px; 
+	letter-spacing: 2px;
+	border: solid 4px;
 	margin-bottom: 0; 
 	color: #3CB371;
 	}
 h2 {
+	padding-left: 200px;
 	font-size: 17px;
 	letter-spacing: 2px; 
 	margin-bottom: 0; 
@@ -43,16 +40,33 @@ h2 {
 	}
 
 h3 { 
-	
+	padding-left: 200px;
 	font-size: 15px;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: #D2691E;
 	}
 .div1 {
+	padding-left: 50px;
 	border: dotted 2px;
 	width: 100px;
 	height: 100px;
+	}
+.div L1 {
+	position: absolute;
+	top: 15px;
+	right: 10px;
+	width: 200px;
+	height: 100px;
+	border: 3px solid #D2691E;
+	}
+.div L2 {
+	position: absolute;
+	top: 15px;
+	right: 10px;
+	width: 200px;
+	height: 100px;
+	border: 3px solid #D2691E;
 	}
 
 a:link { 
