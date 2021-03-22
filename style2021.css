@@ -48,10 +48,10 @@ h3 {
 	color: #ffffff;
 	}
 .div1 {
-	padding-left: 300px;
+	align: center;
 	border: dotted 5px;
-	width: 100px;
-	height: 300px;
+	width: 300px;
+	height: 100px;
 
 	}
 .divL1 {
