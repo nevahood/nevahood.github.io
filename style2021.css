@@ -48,10 +48,11 @@ h3 {
 	color: #ffffff;
 	}
 .div1 {
-	padding-left: 50px;
-	border: dotted 2px;
+	padding-left: 300px;
+	border: dotted 5px;
 	width: 100px;
-	height: 100px;
+	height: 300px;
+
 	}
 .divL1 {
 	position: absolute;
